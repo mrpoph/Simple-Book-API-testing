@@ -2,4 +2,4 @@ My first project demonstrating API testing using postman and newman used to run 
 
 Import the json file into postman to display the test cases for the API.
 
-![TestCases for the API](TestCases.png)
+![API TestCases](images/TestCases.png?raw=true)
