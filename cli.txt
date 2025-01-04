@@ -1,0 +1,4 @@
+
+newman run postman_collection.json
+
+newman run postman_collection.json -r htmlextra
